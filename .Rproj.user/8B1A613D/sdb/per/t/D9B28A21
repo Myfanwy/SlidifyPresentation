@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "## Results Graph\n\nlibrary(ggplot2)\nhead(iris)\nggplot(iris, aes(x = Sepal.Length, y = Sepal.Width)) + geom_point(aes(color = Species), size = 3)\n",
+    "created" : 1464899758811.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "448827542",
+    "id" : "D9B28A21",
+    "lastKnownWriteTime" : 1464900084,
+    "last_content_update" : 1464900084646,
+    "path" : "~/Dropbox/GitHubRepos/SlidifyPresentation/irisplot.R",
+    "project_path" : "irisplot.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
